@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PopularityTracker.data-cassandra=2
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PopularityTracker.data-jpa=1
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PopularityTracker.web=2
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PreferredSelections.artifactId=fresher12
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PreferredSelections.bootVersion=1.5.7.RELEASE
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PreferredSelections.description=Demo project for Spring Boot
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PreferredSelections.groupId=vn.ifisolution
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PreferredSelections.javaVersion=1.8
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PreferredSelections.language=java
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PreferredSelections.name=Asignment.Cassandra1srs
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PreferredSelections.packageName=vn.ifisolution.fresher12.Asig
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PreferredSelections.packaging=jar
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PreferredSelections.type=MAVEN
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PreferredSelections.version=0.0.1-SNAPSHOT

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="TuanNH_Final"/>
+<aop-project name="main"/>
+<aop-project name="AsignmentFresher12"/>
+</aop-reference-model>
